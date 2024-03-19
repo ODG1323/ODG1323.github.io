@@ -1,0 +1,90 @@
+h1{
+    color: black;
+    text-align: center;
+    font-family:helvetiva ;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+div{
+    display: inline-block;
+    width: 380px;
+    
+    margin: 10px;
+    border-color: black;
+    border-style: solid;
+    background-color: gray;
+    height: 230px;
+    
+}
+
+section{
+    width: 160px;
+    height: 20px;
+    font-size: 23px;
+    font-family: helvetiva;
+    font-weight: bold;
+    border-color: black;
+    border-style: solid;
+    border-top: none;
+    border-right: none;
+   
+}
+.BX{
+    margin-left: 30px;
+}
+
+   
+
+
+.box1{
+    background-color: rgb(212, 138, 138);
+   
+   
+    color: rgb(0, 0, 0);
+    padding-bottom: 5px;
+    float: right;
+   
+    text-align: center;
+    margin-bottom: 10px;
+    float: top;
+
+    
+  }
+  
+  .box2{
+    background-color: rgb(188, 66, 66);
+    float: right;
+    color: rgb(255, 255, 255);
+    
+    
+    
+   
+    
+    text-align: center;
+    padding-bottom: 5px;
+
+  }
+ 
+  
+  .box3{
+    background-color: rgb(214, 193, 112);
+    float: right;
+    color: rgb(0, 0, 0);
+    padding-bottom: 5px;
+    text-align: center;
+
+  }
+ 
+  
+  .content{
+    width: 280px;
+    margin-top: 36px;
+    margin-left: 30px;
+    margin-right: 5px;
+    font-size: 18px;
+    font-family: helvetiva;
+    margin-bottom: 20px;
+    
+  }
+  
