@@ -117,9 +117,17 @@ h1:hover{
   
   @media (min-width: 100px) and (max-width: 610px){
     .megbiya,.programs,.acty{
-      width: auto;
-      height: auto;
+      width: 100%;
+      
     
+  }
+  .programs,{
+    width: 40%;
+
+  }
+  .acty{
+    width: 70%;
+
   }
  
   }
