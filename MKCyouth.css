@@ -1,0 +1,127 @@
+head{
+    transition: 5s;
+}
+body{
+    transition: 5s; 
+}
+
+
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    
+    border-style: solid;
+   
+
+}
+h1:hover{
+    background-color: rgb(18, 77, 100);
+    color: rgb(255, 255, 255);
+    border-color: rgb(18, 65, 99);
+    border-style: solid;
+    border-radius: 50px;
+
+}
+
+
+
+
+.megbiya{
+    width: 80%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 140px;
+    font-size: 20px;
+  
+    border-style: solid;
+    border-color: rgb(7, 7, 7);
+}
+.megbiya:hover{
+    background-color: rgb(236, 235, 223);
+    color: rgb(1, 15, 57);
+    border-color: rgb(62, 8, 8);
+    border-style: solid;
+   
+
+}
+.program{
+    background-color: brown;
+    border-radius: 50px;
+    color: white;
+    width: 78%;
+    text-align: center;
+    margin: 15px;
+    height: 50px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS',
+     'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.acty{
+    background-color: brown;
+    border-radius: 50px;
+    color: white;
+    width: 78%;
+    text-align: center;
+    margin: 5px;
+    height: 50px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS',
+    'Lucida Sans Unicode', 'Lucida Grande', 
+   'Lucida Sans', Arial, sans-serif;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.program:hover{
+    background-color: aliceblue;
+    color: brown;
+    border-color: brown;
+    border-style: solid;
+
+}
+.acty:hover{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+
+}
+
+@media (max-width: 930px){
+    .megbiya{
+      width: auto;
+      height: auto;
+      margin-left: auto;
+
+  
+    }
+    .acty,.program{
+        width: 100%;
+        
+        margin-left: auto;
+
+    }
+   
+     
+    }
+    div{
+      text-align: center;
+    }
+   
+  
+  @media (min-width: 100px) and (max-width: 610px){
+    .megbiya,.programs,.acty{
+      width: auto;
+      height: auto;
+    
+  }
+ 
+  }
+  
+  
