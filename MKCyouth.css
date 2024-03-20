@@ -117,11 +117,12 @@ h1:hover{
   
   @media (min-width: 100px) and (max-width: 610px){
     .megbiya,.programs,.acty{
-      width: 100%;
+      width: 100%;}
+
       
     
   }
-  .programs,{
+  .programs {
     width: 40%;
 
   }
@@ -130,6 +131,6 @@ h1:hover{
 
   }
  
-  }
+  
   
   
