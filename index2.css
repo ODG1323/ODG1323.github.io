@@ -45,6 +45,9 @@ p{
   margin-right: 10px;
   margin-bottom: 5px;
 }
+a{
+  text-decoration: none;
+}
 
 
   
@@ -93,7 +96,7 @@ p{
   
 }
 section{
-  width: auto;
+  width: 27%;
 }
 
 }
